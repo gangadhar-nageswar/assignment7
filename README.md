@@ -1,4 +1,4 @@
-# 3‑D Object Pose in the `map` Frame
+# 3‑D Object Localization
 
 This package localises a detected *teddy bear* from the Isaac ROS DetectNet pipeline in 3‑D and publishes its **full pose (position + orientation) in the SLAM “map” frame**, ready for Nav2, MoveIt 2, or logging.
 
